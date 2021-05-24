@@ -13,7 +13,7 @@
 push!(LOAD_PATH, ENV["ZEN_CORE"])
 
 # Use the ZEN Framework
-using Zen
+using ZenCore
 
 # R-1: Check the version of julia runtime environment
 require()
