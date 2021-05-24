@@ -1,12 +1,12 @@
 #!/usr/bin/env julia
 
 #
-# Project : Begonia
+# Project : Daisy
 # Source  : run.jl
 # Author  : Li Huang (lihuang.dmft@gmail.com)
 # Status  : Unstable
 #
-# Last modified: 2021/02/28
+# Last modified: 2021/05/24
 #
 
 # Update LOAD_PATH
