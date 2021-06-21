@@ -2,11 +2,11 @@
 
 #
 # Project : Daisy
-# Source  : run.jl
+# Source  : dft_dmft.jl
 # Author  : Li Huang (lihuang.dmft@gmail.com)
-# Status  : Unstable
+# Status  : Stable
 #
-# Last modified: 2021/05/24
+# Last modified: 2021/06/21
 #
 
 # Update LOAD_PATH
@@ -27,17 +27,14 @@ overview()
 # R02: Setup the configuration parameters
 setup()
 
-# R03: Print the configuration parameters
-exhibit()
-
-# R04: Initialize the task
+# R03: Initialize the task
 ready()
 
-# R05: Carry out the task
+# R04: Carry out the task
 go()
 
-# R06: Finalize the task
+# R05: Finalize the task
 final()
 
-# R07: Say good bye
+# R06: Say good bye
 goodbye()
