@@ -4,7 +4,7 @@ ZenApps provides some basic applications for the Zen DFT + DMFT computation fram
 
 ## Version
 
-v0.1.3-devel.210524
+v0.9.0-devel.210621
 
 ## License
 
