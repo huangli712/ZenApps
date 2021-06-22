@@ -1,10 +1,12 @@
 # ZenApps
 
-ZenApps provides some basic applications for the Zen DFT + DMFT computation framework. This package is currently under developement. **IT DOESN'T WORK NOW!**
+ZenApps provides some basic applications which are based on the ZenCore library. Actually, it is one of the core components of the Zen DFT + DMFT computation framework. It should be integrated with the Zen framework, working together with the other components.
+
+This package is currently under developement. **IT DOESN'T WORK NOW!**
 
 ## Version
 
-v0.9.0-devel.210621
+v0.9.1-devel.210622
 
 ## License
 
